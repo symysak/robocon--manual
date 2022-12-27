@@ -7,4 +7,4 @@
 
 ## 参考文献
 * https://industrial.panasonic.com/jp/ss/technical/b6
-* 
+* https://e-sysnet.com/self_inductance/
